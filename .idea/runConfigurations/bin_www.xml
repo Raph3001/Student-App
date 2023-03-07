@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin\www" type="NodeJSConfigurationType" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="DEBUG" value="student-app:*" />
+    </envs>
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+      <browser url="http://localhost:3000/" />
+    </EXTENSION>
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="compile public" run_configuration_type="BatchConfigurationType" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="compile routes" run_configuration_type="BatchConfigurationType" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+node_modules
+bin
+/workspace.xml
+/public/**/**.js
+/types/**.js
+/routes/school.js
+package-lock.json
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

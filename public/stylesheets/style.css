@@ -1,0 +1,44 @@
+* {
+  background-color: lightgray;
+}
+
+.fort {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  display: inline-block;
+  text-align: center;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: rgba(13, 233, 227, 0.31);
+}
+
+.more {
+
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  text-align: center;
+}
+
+tr {
+  width: 100%;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+}
+
+a {
+  color: #00B7FF;
+}
